@@ -1,0 +1,34 @@
+# Fichiers binaires et compilés
+*.exe
+*.dll
+*.a
+*.lib
+*.la
+*.o
+*.obj
+
+# Archives
+*.rar
+*.zip
+
+# Fichiers générés
+*.log
+*.txt
+
+# Répertoires de build
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.ninja
+
+# IDE et fichiers système
+.idea/
+*.iml
+
+# Sauvegardes de parties
+save_game*.txt
+sauvegarde*.txt
+player*.txt
+music_selection.txt
