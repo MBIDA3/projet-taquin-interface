@@ -10,10 +10,9 @@ Le jeu de taquin est un puzzle classique de type 3x3 ou 4x4, où le joueur doit 
 
 Ce projet est à but pédagogique et a été réalisé dans le cadre de ma formation en informatique.
 
-
 ![Aperçu du jeu](image/Game.png)
+![Aperçu du jeu](image/Game2.png)
 
-![Appeçu du jeu](image/Game2.png)
 ---
 
 ## 🛠️ Technologies utilisées
